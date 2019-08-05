@@ -2,13 +2,14 @@
   "scripts": {
     "deploy": "./deploy.sh"
   },
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "blog-backup",
+  "version": "1.0.0",
   "private": true,
   "hexo": {
     "version": "3.8.0"
   },
   "dependencies": {
+    "core-js": "^3.1.4",
     "hexo": "^3.8.0",
     "hexo-deployer-git": "^1.0.0",
     "hexo-generator-archive": "^0.1.5",
@@ -27,5 +28,10 @@
   },
   "devDependencies": {
     "eslint": "^5.15.3"
-  }
+  },
+  "description": "Blog backup",
+  "main": "index.js",
+  "repository": "git+https://github.com/leviding/blog-backup",
+  "author": "LeviDing <imdingxuewen@gmail.com>",
+  "license": "ISC"
 }
