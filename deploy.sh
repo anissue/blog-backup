@@ -11,11 +11,8 @@ hexo d
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
 
-git init
 git add -A
 git commit -m ':pencil: update content'
-
-# 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:leviding/leviding.github.io.git source
+git push
 
 cd -
