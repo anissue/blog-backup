@@ -13,6 +13,6 @@ hexo d
 
 git add -A
 git commit -m ':pencil: update content'
-git push
+git push original master
 
 cd -
