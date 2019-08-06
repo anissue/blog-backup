@@ -25,5 +25,5 @@ $ hexo g
 $ hexo s
 
 // 运行和部署
-$ yarn deploy
+$ yarn d
 ```

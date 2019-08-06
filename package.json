@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "deploy": "./deploy.sh"
+    "d": "./deploy.sh"
   },
   "name": "blog-backup",
   "version": "1.0.0",
