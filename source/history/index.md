@@ -1,4 +1,4 @@
 ---
-title: 履历
+title: 历史
 layout: timeline
 ---
