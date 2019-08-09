@@ -4,3 +4,4 @@ node_modules/
 public/
 .deploy*/
 .git/
+db.json
