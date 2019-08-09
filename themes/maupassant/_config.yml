@@ -109,6 +109,8 @@ links:
     url: https://www.douban.com/people/dingxuewen/
 
 timeline:
+  - num: 13
+    word: 2019 年 08 月，对博客进行重建，重置相关统计数据，并发布 LeetCode JS 题解项目
   - num: 12
     word: 2019 年 07 月，从掘金离职，此段工作为期两年整。同月结束自动化学院兼职辅导员工作
   - num: 11
