@@ -15,5 +15,3 @@ git init
 git add -A
 git commit -m ':pencil: update content'
 git push original master
-
-cd -
