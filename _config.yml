@@ -89,3 +89,18 @@ search:
   path: search.xml
   field: post
   content: true
+
+# hexo-douban
+douban:
+  user: dingxuewen
+  builtin: false
+  book:
+    title: '读万卷书，行万里路'
+    quote: 'You are now in the temperament, hiding the way you go, the book you read and the people you love.'
+  movie:
+    title: '一部电影，一种人生'
+    quote: '看电影最大的乐趣在于可以毫发无伤地体会多种多样的人生。'
+  #game:
+  #  title: 'This is my game title'
+  #  quote: 'This is my game quote'
+  timeout: 10000 
