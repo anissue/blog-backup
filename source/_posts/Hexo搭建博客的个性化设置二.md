@@ -7,7 +7,7 @@ date: 2017-03-03 23:21:32
 
 ## 在标题下添加「阅读量」等
 
-在 [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/2017/03/01/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/)这篇文章中讲到添加不蒜子等数据统计功能，那么再者就是对数据的显示进行个性化设置。上一篇文章中有一段 JS 代码：
+在 [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/article/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/)这篇文章中讲到添加不蒜子等数据统计功能，那么再者就是对数据的显示进行个性化设置。上一篇文章中有一段 JS 代码：
 
 ```js
 <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">

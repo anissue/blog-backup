@@ -15,8 +15,8 @@ date: 2017-03-11 12:25:30
 
 既然是系列文章，我在这就贴出在此之前写的两篇文章的链接吧：
 
-- [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/2017/03/01/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/)
-- [Hexo 搭建博客的个性化设置二](http://www.dingxuewen.com/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%BA%8C/)
+- [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/article/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/)
+- [Hexo 搭建博客的个性化设置二](http://www.dingxuewen.com/article/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%BA%8C/)
 
 ## 优化主题 sidebar 头像
 
@@ -106,7 +106,7 @@ img:hover {
 
 ## 小红心优化
 
-在 [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/2017/03/01/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/#为博客加入鼠标点击显示红心) 这篇文章中我写了如何为博客加入鼠标点击显示小红心，但是如果我们只想在博客的某个页面添加这个功能呢？
+在 [Hexo 搭建博客的个性化设置一](http://www.dingxuewen.com/article/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E4%B8%80/#为博客加入鼠标点击显示红心) 这篇文章中我写了如何为博客加入鼠标点击显示小红心，但是如果我们只想在博客的某个页面添加这个功能呢？
 
 那么就可以在 `\themes\next\source\js\src` 文件目录下添加 `love.js` 文件。内容为：
 
